@@ -28,7 +28,11 @@ const kevin = {
 ```
 
 <div align="center">
+### 🐍 Mis Commits 
 
+![Snake animation](https://raw.githubusercontent.com/Ksmol22/Ksmol22/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 ### 💼 Lo que hago día a día
 
 </div>
@@ -100,11 +104,7 @@ const kevin = {
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ksmol22&theme=tokyonight)](https://git.io/streak-stats)
 
-### 🐍 Mis Commits (La Culebrita!)
 
-![Snake animation](https://raw.githubusercontent.com/Ksmol22/Ksmol22/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
