@@ -209,7 +209,7 @@ mindmap
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hablemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-molina-81a476222/)
 [![GitHub](https://img.shields.io/badge/GitHub-Sígueme-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ksmol22)
-[![Email](https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![Email](https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:molinalarak@gmail.com)
 
 </div>
 
