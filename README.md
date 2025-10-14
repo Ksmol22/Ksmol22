@@ -211,8 +211,6 @@ mindmap
 [![GitHub](https://img.shields.io/badge/GitHub-Sígueme-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ksmol22)
 [![Email](https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
 
-### 💬 *"El mejor código es el que nunca necesitas depurar"*
-
 </div>
 
 ---
@@ -226,17 +224,6 @@ mindmap
 | Jugando y manteniéndome activo | Descubriendo nuevas culturas | Aprendiendo constantemente |
 
 </div>
-
----
-
-<div align="center">
-
-### 📈 Actividad Reciente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
