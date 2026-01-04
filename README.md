@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Kevin Molina (@Ksmol22)
 
-### Asistente de Soporte de Aplicaciones • Administrador de Sistemas • Desarrollador
+### Ing de infraestructura DBA • Administrador de Sistemas • Desarrollador
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Una+idea+hoy%2C+una+aventura+mañana!;Automatizando+el+futuro+%F0%9F%9A%80;Resolviendo+problemas+complejos+%F0%9F%94%A7;Aprendiendo+siempre+%F0%9F%93%9A" alt="Typing SVG" />
 
