@@ -149,9 +149,9 @@ class KevinMolina:
 <img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,html,css&theme=dark" />
 
 **Bases de datos**<br><br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" /><br>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="Oracle" title="Oracle"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="SQL Server" title="SQL Server"/>
 
 **Herramientas**<br><br>
 <img src="https://skillicons.dev/icons?i=vscode,github,postman&theme=dark" />
@@ -201,18 +201,15 @@ class KevinMolina:
 ## 📈 Actividad en GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ksmol22&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0F172A&title_color=38BDF8&icon_color=0EA5E9&include_all_commits=true&count_private=true&locale=es" alt="Estadísticas"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksmol22&layout=compact&hide_border=true&theme=tokyonight&bg_color=0F172A&title_color=38BDF8&langs_count=8&locale=es" alt="Lenguajes principales"/>
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Detalle del perfil"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ksmol22&theme=tokyonight&hide_border=true&background=0F172A&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8&locale=es" alt="Racha"/>
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="Estadísticas"/>
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Lenguajes más usados"/>
+  <br>
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repositorios por lenguaje"/>
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Horario productivo"/>
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ksmol22&bg_color=0F172A&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true&custom_title=Contribuciones%20recientes" width="100%" alt="Gráfico de actividad"/>
-</div>
-
-### 🏆 Trofeos
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ksmol22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trofeos"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ksmol22&theme=tokyonight&hide_border=true&background=0F172A&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8&locale=es" alt="Racha"/>
 </div>
 
 ### 🐍 Contribuciones
@@ -284,7 +281,8 @@ Me interesan proyectos open source o colaboraciones relacionadas con:
 
 ### 💬 Frase favorita
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase del día"/>
+> *"Primero resuelve el problema. Después, escribe el código."*<br>
+> — John Johnson
 
 </div>
 
