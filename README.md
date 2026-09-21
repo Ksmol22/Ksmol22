@@ -1,255 +1,310 @@
+<!-- ═══════════════════════════ ENCABEZADO ═══════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Kevin%20Molina&fontAlign=50&fontAlignY=40&desc=Infrastructure%20Engineer%20%7C%20DBA%20%7C%20Automation%20%7C%20Observability&descAlign=50&descAlignY=65&fontSize=42&animation=fadeIn&color=0:0F172A,100:0EA5E9" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Kevin%20Molina&fontAlign=50&fontAlignY=38&desc=Ingeniero%20de%20Infraestructura%20%7C%20DBA%20%7C%20Automatizaci%C3%B3n%20%7C%20Observabilidad&descAlign=50&descAlignY=60&descSize=17&fontSize=52&animation=twinkling&color=0:0F172A,50:0369A1,100:0EA5E9&fontColor=ffffff" width="100%"/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&random=false&width=750&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Kevin+Molina;%F0%9F%96%A5%EF%B8%8F+Ingeniero+de+Infraestructura;%F0%9F%97%84%EF%B8%8F+Administraci%C3%B3n+de+Bases+de+Datos;%E2%9A%99%EF%B8%8F+Automatizaci%C3%B3n+con+Python%2C+Shell+y+Ansible;%F0%9F%93%8A+Monitoreo+y+Observabilidad;%F0%9F%9A%80+Construyendo+sistemas+confiables+con+c%C3%B3digo" alt="Efecto de escritura" />
+
   <br>
-  
+
   <a href="https://github.com/Ksmol22">
-    <img src="https://img.shields.io/badge/GitHub-Ksmol22-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/GitHub-Ksmol22-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/kevin-molina-81a476222/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kevin%20Molina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Kevin%20Molina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:molinalarak@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"/>
+    <img src="https://img.shields.io/badge/Correo-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/>
   </a>
-  
+
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Infrastructure+Engineer;Database+%26+Systems+Administration;Automation+%26+Observability;Building+reliable+systems+with+code" alt="Typing effect" />
-  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=Ksmol22&label=Visitas%20al%20perfil&color=0EA5E9&style=flat-square" alt="Visitas"/>
+  <img src="https://img.shields.io/badge/Estado-Aprendiendo%20y%20construyendo-22C55E?style=flat-square" alt="Estado"/>
+  <img src="https://img.shields.io/badge/Idiomas-Espa%C3%B1ol%20%7C%20Ingl%C3%A9s-38BDF8?style=flat-square" alt="Idiomas"/>
 </div>
 
-## 👨‍💻 About Me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-I'm a Software Engineering student focused on **infrastructure, databases, automation, and observability**. I enjoy working at the intersection between software development and IT infrastructure, building tools that automate repetitive operations, improve system visibility, and help teams troubleshoot problems faster.
+## 👨‍💻 Sobre mí
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                    MY TECHNICAL FOCUS                       │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  🖥️  Infrastructure       Linux · Windows · Networking     │
-│                                                             │
-│  🗄️  Databases            Oracle · PostgreSQL · SQL Server │
-│                            MySQL · MongoDB                  │
-│                                                             │
-│  ⚙️  Automation            Python · Shell · Ansible        │
-│                                                             │
-│  📊  Observability         Monitoring · Metrics · Logs     │
-│                            Alerting · Analytics             │
-│                                                             │
-│  🚀  Development           APIs · Backend · Web Systems    │
-│                                                             │
-│  📦  Containers            Docker · Containerized Apps     │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+Soy estudiante de **Ingeniería de Software** con enfoque en **infraestructura, bases de datos, automatización y observabilidad**. Me gusta trabajar en el punto donde se unen el desarrollo de software y la infraestructura de TI: construyo herramientas que automatizan operaciones repetitivas, mejoran la visibilidad de los sistemas y ayudan a los equipos a resolver incidentes más rápido.
+
+```python
+class KevinMolina:
+    def __init__(self):
+        self.rol          = "Estudiante de Ingeniería de Software"
+        self.enfoque      = ["Infraestructura", "Bases de datos", "Automatización", "Observabilidad"]
+        self.sistemas     = ["Linux", "Windows", "Redes"]
+        self.bases_datos  = ["Oracle", "PostgreSQL", "SQL Server", "MySQL", "MongoDB"]
+        self.lenguajes    = ["Python", "Bash", "JavaScript", "TypeScript"]
+        self.herramientas = ["Docker", "Ansible", "Git", "FastAPI"]
+        self.aprendiendo  = ["Cloud", "Infraestructura como Código", "Servicios distribuidos"]
+        self.filosofia    = "Si es repetitivo, se automatiza. Si importa, se documenta."
+
+    def disponible_para(self):
+        return ["Proyectos open source", "Colaboraciones", "Prácticas y oportunidades en infraestructura"]
 ```
 
-## 🎯 What I Do
-
-| 🖥️ Infrastructure | 🗄️ Database Administration |
-| :--- | :--- |
-| - Linux & Windows administration<br>- Application troubleshooting<br>- Service & resource monitoring<br>- Infrastructure diagnostics<br>- Production incident analysis<br>- Technical documentation | - Oracle, PostgreSQL, SQL Server<br>- MySQL, MongoDB<br>- Performance & operational troubleshooting<br>- Backup & maintenance automation |
-
-| ⚙️ Automation | 📊 Observability |
-| :--- | :--- |
-| - Python automation<br>- Shell scripting & Ansible<br>- Operational tooling<br>- Health checks & Backup verification<br>- Automated reporting | - Infrastructure monitoring<br>- Metrics collection<br>- Log analysis & Alerting<br>- Health dashboards<br>- Anomaly detection concepts |
-
+<details>
+<summary><b>⚡ Datos rápidos (clic para expandir)</b></summary>
 <br>
 
-## 🚀 Featured Projects
+- 🔭 Actualmente trabajando en **Themisec**, una plataforma de monitoreo de infraestructura.
+- 🌱 Aprendiendo **cloud, contenedores e Infraestructura como Código**.
+- 🧩 Me interesa entender los sistemas de punta a punta: desde la aplicación hasta el servidor.
+- 🛠️ Disfruto convertir tareas manuales en scripts confiables y reutilizables.
+- 💬 Pregúntame sobre **bases de datos, Linux, automatización o monitoreo**.
+- 📫 La mejor forma de contactarme: **molinalarak@gmail.com**
+
+</details>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+## 🎯 Lo que hago
+
+| 🖥️ Infraestructura | 🗄️ Administración de Bases de Datos |
+| :--- | :--- |
+| • Administración de Linux y Windows<br>• Diagnóstico de aplicaciones<br>• Monitoreo de servicios y recursos<br>• Diagnóstico de infraestructura<br>• Análisis de incidentes en producción<br>• Documentación técnica | • Oracle, PostgreSQL, SQL Server<br>• MySQL, MongoDB<br>• Rendimiento y troubleshooting operativo<br>• Automatización de respaldos y mantenimiento<br>• Consultas, índices y optimización<br>• Usuarios, roles y permisos |
+
+| ⚙️ Automatización | 📊 Observabilidad |
+| :--- | :--- |
+| • Automatización con Python<br>• Scripts en Shell y playbooks de Ansible<br>• Herramientas operativas<br>• Health checks y verificación de respaldos<br>• Reportes automáticos<br>• Tareas programadas (cron / Task Scheduler) | • Monitoreo de infraestructura<br>• Recolección de métricas<br>• Análisis de logs y alertas<br>• Dashboards de salud<br>• Conceptos de detección de anomalías<br>• Disponibilidad y tiempos de respuesta |
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+## 🚀 Proyectos destacados
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" valign="top">
         <h3>🔭 Themisec</h3>
-        <b>Infrastructure Monitoring & Observability</b><br><br>
-        Monitoring platform designed to provide visibility across:<br>
+        <b>Monitoreo de Infraestructura y Observabilidad</b><br><br>
+        Plataforma de monitoreo que brinda visibilidad sobre:
         <ul>
-          <li>Windows & Linux servers</li>
+          <li>Servidores Windows y Linux</li>
           <li>Oracle, PostgreSQL, MySQL, SQL Server</li>
-          <li>Network infrastructure (HTTP/S, DNS, Ping)</li>
+          <li>Infraestructura de red (HTTP/S, DNS, Ping)</li>
+          <li>Estado de servicios y alertas</li>
         </ul>
-        <i><b>Focus:</b> Monitoring · Observability · Infrastructure · Automation</i>
+        <img src="https://img.shields.io/badge/Monitoreo-0EA5E9?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Observabilidad-0369A1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Automatizaci%C3%B3n-0F172A?style=flat-square"/>
       </td>
       <td width="50%" valign="top">
         <h3>🐾 UVeterinaria</h3>
-        <b>Veterinary Management Platform</b><br><br>
-        Business platform for managing veterinary operations:<br>
+        <b>Plataforma de Gestión Veterinaria</b><br><br>
+        Sistema de negocio para gestionar operaciones veterinarias:
         <ul>
-          <li>Patients, clinical records & vaccinations</li>
-          <li>Appointments, billing & inventory</li>
-          <li>Reports & notifications</li>
+          <li>Pacientes, historias clínicas y vacunas</li>
+          <li>Citas, facturación e inventario</li>
+          <li>Reportes y notificaciones</li>
         </ul>
-        <i><b>Focus:</b> Web · Backend · Business Systems · Automation</i>
+        <img src="https://img.shields.io/badge/Web-0EA5E9?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Backend-0369A1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Sistemas%20de%20negocio-0F172A?style=flat-square"/>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
         <h3>💰 FinanzasFácil</h3>
-        <b>Personal Finance Platform</b><br><br>
-        Backend-oriented financial management application focused on:<br>
+        <b>Plataforma de Finanzas Personales</b><br><br>
+        Aplicación financiera orientada al backend:
         <ul>
-          <li>Transactions & budgets</li>
-          <li>Authentication & API-based architecture</li>
-          <li>Financial organization</li>
+          <li>Transacciones y presupuestos</li>
+          <li>Autenticación con JWT</li>
+          <li>Arquitectura basada en API REST</li>
         </ul>
-        <i><b>Focus:</b> Python · FastAPI · REST API · JWT</i>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
       </td>
       <td width="50%" valign="top">
-        <h3>⚙️ Infrastructure Automation</h3>
-        <b>Operational Automation Toolkit</b><br><br>
-        Tools and scripts for reducing repetitive infrastructure tasks:<br>
+        <h3>⚙️ Automatización de Infraestructura</h3>
+        <b>Kit de Herramientas Operativas</b><br><br>
+        Scripts y herramientas para reducir tareas repetitivas:
         <ul>
-          <li>Backup automation & Health checks</li>
-          <li>Log analysis & Service validation</li>
-          <li>Database operations & Automated reports</li>
+          <li>Automatización de respaldos y health checks</li>
+          <li>Análisis de logs y validación de servicios</li>
+          <li>Operaciones de BD y reportes automáticos</li>
         </ul>
-        <i><b>Focus:</b> Python · Shell · Automation · DevOps</i>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+        <img src="https://img.shields.io/badge/DevOps-0F172A?style=flat-square"/>
       </td>
     </tr>
   </table>
 </div>
 
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-## 🧰 Technology Stack
+## 🧰 Stack tecnológico
 
-**Infrastructure & DevOps**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,docker,git,bash,ansible" />
-</p>
+<div align="center">
 
-**Development**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,html,css" />
-</p>
+**Infraestructura y DevOps**<br><br>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,docker,git,bash,ansible&theme=dark" />
 
-**Databases**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
+**Desarrollo**<br><br>
+<img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,html,css&theme=dark" />
 
-<br>
+**Bases de datos**<br><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" /><br>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
-## 🏗️ How I Think About Infrastructure
+**Herramientas**<br><br>
+<img src="https://skillicons.dev/icons?i=vscode,github,postman&theme=dark" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+## 🏗️ Cómo pienso la infraestructura
 
 ```text
                          ┌─────────────────┐
-                         │    APPLICATION  │
+                         │   APLICACIÓN    │
                          └────────┬────────┘
-                                  │
                                   ▼
                          ┌─────────────────┐
                          │      APIs       │
                          └────────┬────────┘
-                                  │
                                   ▼
               ┌──────────────────────────────────┐
-              │            DATABASES             │
+              │          BASES DE DATOS          │
               │ Oracle · PostgreSQL · SQL Server │
               │ MySQL · MongoDB                  │
               └───────────────┬──────────────────┘
-                              │
                               ▼
               ┌──────────────────────────────────┐
-              │         INFRASTRUCTURE           │
-              │ Linux · Windows · Network        │
+              │         INFRAESTRUCTURA          │
+              │ Linux · Windows · Redes          │
               └───────────────┬──────────────────┘
-                              │
                  ┌────────────┴────────────┐
                  ▼                         ▼
-          ┌──────────────┐          ┌──────────────┐
-          │  AUTOMATION  │          │ OBSERVABILITY│
-          │              │          │              │
-          │ Python       │          │ Metrics      │
-          │ Shell        │          │ Logs         │
-          │ Ansible      │          │ Alerts       │
-          └──────┬───────┘          └──────┬───────┘
-                 │                         │
-                 └────────────┬────────────┘
-                              ▼
-                    ┌──────────────────┐
-                    │    RELIABILITY   │
-                    └──────────────────┘
+        ┌────────────────┐       ┌────────────────┐
+        │ AUTOMATIZACIÓN │       │ OBSERVABILIDAD │
+        │  Python        │       │  Métricas      │
+        │  Shell         │       │  Logs          │
+        │  Ansible       │       │  Alertas       │
+        └───────┬────────┘       └───────┬────────┘
+                └────────────┬───────────┘
+                             ▼
+                   ┌──────────────────┐
+                   │   CONFIABILIDAD  │
+                   └──────────────────┘
 ```
 
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-## 📈 GitHub Activity
+## 📈 Actividad en GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ksmol22&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksmol22&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ksmol22&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0F172A&title_color=38BDF8&icon_color=0EA5E9&include_all_commits=true&count_private=true&locale=es" alt="Estadísticas"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksmol22&layout=compact&hide_border=true&theme=tokyonight&bg_color=0F172A&title_color=38BDF8&langs_count=8&locale=es" alt="Lenguajes principales"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ksmol22&theme=tokyonight&hide_border=true&background=0F172A&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8&locale=es" alt="Racha"/>
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ksmol22&bg_color=0F172A&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true&custom_title=Contribuciones%20recientes" width="100%" alt="Gráfico de actividad"/>
 </div>
-<br>
+
+### 🏆 Trofeos
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ksmol22&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ksmol22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trofeos"/>
 </div>
 
-<br>
+### 🐍 Contribuciones
 
-## 🔬 Currently Building & Learning
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ksmol22/Ksmol22/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ksmol22/Ksmol22/output/github-snake.svg" />
+    <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/Ksmol22/Ksmol22/output/github-snake.svg" />
+  </picture>
+</div>
 
-| Area | Focus |
-| :--- | :--- |
-| 🖥️ **Infrastructure** | Linux · Windows · Systems |
-| 🗄️ **Databases** | Oracle · PostgreSQL · SQL Server |
-| ⚙️ **Automation** | Python · Shell · Ansible |
-| 📊 **Observability** | Monitoring · Logs · Metrics |
-| 🐳 **Containers** | Docker · Containerized services |
-| ☁️ **Cloud** | Cloud infrastructure & deployment |
-| 🚀 **Backend** | APIs · FastAPI · Distributed services |
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-<br>
+## 🔬 Construyendo y aprendiendo
 
-## 🧠 Engineering Principles
+| Área | Enfoque | Progreso |
+| :--- | :--- | :---: |
+| 🖥️ **Infraestructura** | Linux · Windows · Sistemas | ![](https://geps.dev/progress/75?dangerColor=0EA5E9&warningColor=0EA5E9&successColor=22C55E) |
+| 🗄️ **Bases de datos** | Oracle · PostgreSQL · SQL Server | ![](https://geps.dev/progress/70?dangerColor=0EA5E9&warningColor=0EA5E9&successColor=22C55E) |
+| ⚙️ **Automatización** | Python · Shell · Ansible | ![](https://geps.dev/progress/70?dangerColor=0EA5E9&warningColor=0EA5E9&successColor=22C55E) |
+| 📊 **Observabilidad** | Monitoreo · Logs · Métricas | ![](https://geps.dev/progress/60?dangerColor=0EA5E9&warningColor=0EA5E9&successColor=22C55E) |
+| 🐳 **Contenedores** | Docker · Servicios contenerizados | ![](https://geps.dev/progress/55?dangerColor=0EA5E9&warningColor=0EA5E9&successColor=22C55E) |
+| ☁️ **Cloud** | Infraestructura y despliegue en la nube | ![](https://geps.dev/progress/35?dangerColor=0EA5E9&warningColor=0EA5E9&successColor=22C55E) |
+| 🚀 **Backend** | APIs · FastAPI · Servicios distribuidos | ![](https://geps.dev/progress/65?dangerColor=0EA5E9&warningColor=0EA5E9&successColor=22C55E) |
+
+> 💡 *Los porcentajes son una autoevaluación de mi avance: ajústalos cuando quieras.*
+
+### 🗺️ Hoja de ruta
+
+- [x] Administración de Linux y Windows
+- [x] Bases de datos relacionales y NoSQL
+- [x] Automatización con Python y Shell
+- [x] APIs REST con FastAPI
+- [ ] Infraestructura como Código (Terraform)
+- [ ] CI/CD con GitHub Actions
+- [ ] Orquestación de contenedores (Kubernetes)
+- [ ] Stack de observabilidad (Prometheus · Grafana · Loki)
+- [ ] Certificación en cloud
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+## 🧠 Principios de ingeniería
 
 ```yaml
-engineering:
-  reliability: "Systems should be observable and predictable."
-  automation: "If it is repetitive, automate it."
-  documentation: "If it matters, document it."
-  monitoring: "You cannot improve what you cannot measure."
-  security: "Infrastructure should be designed with security in mind."
-  learning: "Technology changes. Continuous learning is mandatory."
+ingenieria:
+  confiabilidad:   "Los sistemas deben ser observables y predecibles."
+  automatizacion:  "Si es repetitivo, se automatiza."
+  documentacion:   "Si importa, se documenta."
+  monitoreo:       "No puedes mejorar lo que no puedes medir."
+  seguridad:       "La infraestructura se diseña pensando en la seguridad."
+  simplicidad:     "La solución más simple que funcione suele ser la mejor."
+  aprendizaje:     "La tecnología cambia. Aprender siempre es obligatorio."
 ```
 
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-## 🤝 Open to Collaboration
+## 🤝 Abierto a colaborar
 
-I'm currently interested in open-source projects or collaborations involving:
-- Infrastructure engineering & Reliability
-- Database administration
-- Monitoring & observability
-- DevOps, Automation & Infrastructure as Code (IaC)
-- Backend development & Technical tooling
+Me interesan proyectos open source o colaboraciones relacionadas con:
 
-<br>
+- 🛡️ Ingeniería de infraestructura y confiabilidad (SRE)
+- 🗄️ Administración de bases de datos
+- 📊 Monitoreo y observabilidad
+- ⚙️ DevOps, automatización e Infraestructura como Código (IaC)
+- 🚀 Desarrollo backend y herramientas técnicas
 
-## 📫 Let's Connect
+<div align="center">
+
+### 💬 Frase favorita
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase del día"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+## 📫 Conectemos
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kevin-molina-81a476222/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:molinalarak@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Correo-Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/>
   </a>
   <a href="https://github.com/Ksmol22">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</div>
-<br>
-<div align="center">
-  <i>Infrastructure · Databases · Automation · Observability · Software Engineering</i>
+
+  <br><br>
+  <i>Infraestructura · Bases de datos · Automatización · Observabilidad · Ingeniería de Software</i>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0F172A&height=100&section=footer" width="100%"/>
-<div align="center">
-  <sub>Building reliable systems with code.</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:0369A1,100:0F172A&height=120&section=footer&text=Construyendo%20sistemas%20confiables%20con%20c%C3%B3digo&fontSize=18&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%"/>
