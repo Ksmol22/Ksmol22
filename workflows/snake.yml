@@ -1,31 +1,30 @@
-name: Generate Snake
+name: Generar serpiente de contribuciones
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # cada 12 horas
-  workflow_dispatch:
+    - cron: "0 */12 * * *"   # cada 12 horas
+  workflow_dispatch:          # permite ejecutarlo manualmente
   push:
-    branches:
-    - main
+    branches: [main]
+
+permissions:
+  contents: write
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
     steps:
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Generar SVGs de la serpiente
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#38BDF8&color_dots=#0F172A,#0C4A6E,#0369A1,#0EA5E9,#38BDF8
 
-      - name: Push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Publicar en la rama output
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

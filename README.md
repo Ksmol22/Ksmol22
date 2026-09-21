@@ -228,15 +228,15 @@ class KevinMolina:
 
 | Área | Enfoque | Progreso |
 | :--- | :--- | :---: |
-| 🖥️ **Infraestructura** | Linux · Windows · Sistemas | ![](https://geps.dev/progress/75?dangerColor=0EA5E9&warningColor=0EA5E9&successColor=22C55E) |
-| 🗄️ **Bases de datos** | Oracle · PostgreSQL · SQL Server | ![](https://geps.dev/progress/70?dangerColor=0EA5E9&warningColor=0EA5E9&successColor=22C55E) |
-| ⚙️ **Automatización** | Python · Shell · Ansible | ![](https://geps.dev/progress/70?dangerColor=0EA5E9&warningColor=0EA5E9&successColor=22C55E) |
-| 📊 **Observabilidad** | Monitoreo · Logs · Métricas | ![](https://geps.dev/progress/60?dangerColor=0EA5E9&warningColor=0EA5E9&successColor=22C55E) |
-| 🐳 **Contenedores** | Docker · Servicios contenerizados | ![](https://geps.dev/progress/55?dangerColor=0EA5E9&warningColor=0EA5E9&successColor=22C55E) |
-| ☁️ **Cloud** | Infraestructura y despliegue en la nube | ![](https://geps.dev/progress/35?dangerColor=0EA5E9&warningColor=0EA5E9&successColor=22C55E) |
-| 🚀 **Backend** | APIs · FastAPI · Servicios distribuidos | ![](https://geps.dev/progress/65?dangerColor=0EA5E9&warningColor=0EA5E9&successColor=22C55E) |
+| 🖥️ **Infraestructura** | Linux · Windows · Sistemas | ![](https://geps.dev/progress/92?dangerColor=0EA5E9&warningColor=0EA5E9&successColor=22C55E) |
+| 🗄️ **Bases de datos** | Oracle · PostgreSQL · SQL Server | ![](https://geps.dev/progress/88?dangerColor=0EA5E9&warningColor=0EA5E9&successColor=22C55E) |
+| ⚙️ **Automatización** | Python · Shell · Ansible | ![](https://geps.dev/progress/85?dangerColor=0EA5E9&warningColor=0EA5E9&successColor=22C55E) |
+| 📊 **Observabilidad** | Monitoreo · Logs · Métricas | ![](https://geps.dev/progress/79?dangerColor=0EA5E9&warningColor=0EA5E9&successColor=22C55E) |
+| 🐳 **Contenedores** | Docker · Servicios contenerizados | ![](https://geps.dev/progress/75?dangerColor=0EA5E9&warningColor=0EA5E9&successColor=22C55E) |
+| ☁️ **Cloud** | Infraestructura y despliegue en la nube | ![](https://geps.dev/progress/69?dangerColor=0EA5E9&warningColor=0EA5E9&successColor=22C55E) |
+| 🚀 **Backend** | APIs · FastAPI · Servicios distribuidos | ![](https://geps.dev/progress/68?dangerColor=0EA5E9&warningColor=0EA5E9&successColor=22C55E) |
 
-> 💡 *Los porcentajes son una autoevaluación de mi avance: ajústalos cuando quieras.*
+
 
 ### 🗺️ Hoja de ruta
 
@@ -244,10 +244,10 @@ class KevinMolina:
 - [x] Bases de datos relacionales y NoSQL
 - [x] Automatización con Python y Shell
 - [x] APIs REST con FastAPI
-- [ ] Infraestructura como Código (Terraform)
-- [ ] CI/CD con GitHub Actions
-- [ ] Orquestación de contenedores (Kubernetes)
-- [ ] Stack de observabilidad (Prometheus · Grafana · Loki)
+- [x] Infraestructura como Código (Terraform)
+- [x] CI/CD con GitHub Actions
+- [x] Orquestación de contenedores (Kubernetes)
+- [x] Stack de observabilidad (Prometheus · Grafana · Loki)
 - [ ] Certificación en cloud
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
